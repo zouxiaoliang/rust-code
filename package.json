@@ -1,0 +1,26 @@
+{
+    "name": "rust-code",
+    "displayName": "Rust Code",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "author": {
+        "name": "zouxiaoliang, xukun: https://github.com/mosionton"
+    },
+    "repository": {
+        "url": "https://github.com/zouxiaoliang/rust-code.git"
+    },
+    "extensionPack": [
+        "bungcip.better-toml",
+        "vadimcn.vscode-lldb",
+        "serayuzgur.crates",
+        "tamasfe.even-better-toml",
+        "rust-lang.rust-analyzer",
+        "usernamehw.errorlens"
+    ]
+}
