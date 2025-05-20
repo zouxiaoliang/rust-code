@@ -2,7 +2,7 @@
     "name": "rust-code",
     "displayName": "Rust Code",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.75.0"
     },
@@ -17,11 +17,10 @@
     },
     "publisher": "zouxiaoliang",
     "extensionPack": [
-        "bungcip.better-toml",
         "vadimcn.vscode-lldb",
-        "serayuzgur.crates",
         "tamasfe.even-better-toml",
         "rust-lang.rust-analyzer",
-        "usernamehw.errorlens"
+        "usernamehw.errorlens",
+        "fill-labs.dependi"
     ]
 }
